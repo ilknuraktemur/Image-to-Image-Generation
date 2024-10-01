@@ -50,27 +50,27 @@ bash setup.sh
     <tr>
         <td style="text-align: center;">
             <strong>Before</strong><br>
-            <img src="./Images/3-before.jpg" alt="Before" style="width: 300px;">
+            <img src="./Images/3-before.jpg" alt="Before" style="width: 230px;">
         </td>
         <td style="text-align: center;">
             <strong>After</strong><br>
-            <img src="./Images/3-after.png" alt="After" style="width: 300px;">
+            <img src="./Images/3-after.png" alt="After" style="width: 230px;">
         </td>
     </tr>
    <tr>
         <td style="text-align: center;">
-            <img src="./Images/4-before.jpeg" alt="Before" style="width: 300px;">
+            <img src="./Images/4-before.jpeg" alt="Before" style="width: 230px;">
         </td>
         <td style="text-align: center;">
-            <img src="./Images/4-after.png" alt="After" style="width: 300px;">
+            <img src="./Images/4-after.png" alt="After" style="width: 230px;">
         </td>
     </tr>
      <tr>
         <td style="text-align: center;">
-            <img src="./Images/6-before.jpg" alt="Before" style="width: 300px;">
+            <img src="./Images/6-before.jpg" alt="Before" style="width: 230px;">
         </td>
         <td style="text-align: center;">
-            <img src="./Images/6-after.png" alt="After" style="width: 300px;">
+            <img src="./Images/6-after.png" alt="After" style="width: 230px;">
         </td>
     </tr>
  
