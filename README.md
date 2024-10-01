@@ -73,5 +73,14 @@ bash setup.sh
             <img src="./Images/6-after.png" alt="After" style="width: 230px;">
         </td>
     </tr>
+ <tr>
+        <td style="text-align: center;">
+            <img src="./Images/2-before.jpg" alt="Before" style="width: 230px;">
+        </td>
+        <td style="text-align: center;">
+            <img src="./Images/2-after.png" alt="After" style="width: 230px;">
+        </td>
+    </tr>
+    
  
 </table>
