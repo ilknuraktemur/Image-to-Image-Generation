@@ -40,6 +40,6 @@ mkdir -p ./ComfyUI/models/instantid/SDXL && wget "https://huggingface.co/Instant
 wget "https://huggingface.co/h94/IP Adapter/resolve/main/models/image_encoder/model.safetensors" -O ./ComfyUI/models/clip_vision/CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors
 wget "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors" -O ./ComfyUI/models/clip_vision/CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors
 
-# Clone the repository
+# Run the Comfyui
 cd ComfyUI
 python main.py
