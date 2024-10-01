@@ -44,3 +44,34 @@ python main.py
 cd Image-to-Image-Generation
 bash setup.sh
  ```
+## Example outputs
+
+<table>
+    <tr>
+        <td style="text-align: center;">
+            <strong>Before</strong><br>
+            <img src="./Images/3-before.jpg" alt="Before" style="width: 300px;">
+        </td>
+        <td style="text-align: center;">
+            <strong>After</strong><br>
+            <img src="./Images/3-after.png" alt="After" style="width: 300px;">
+        </td>
+    </tr>
+   <tr>
+        <td style="text-align: center;">
+            <img src="./Images/4-before.jpeg" alt="Before" style="width: 300px;">
+        </td>
+        <td style="text-align: center;">
+            <img src="./Images/4-after.png" alt="After" style="width: 300px;">
+        </td>
+    </tr>
+     <tr>
+        <td style="text-align: center;">
+            <img src="./Images/6-before.jpg" alt="Before" style="width: 300px;">
+        </td>
+        <td style="text-align: center;">
+            <img src="./Images/6-after.png" alt="After" style="width: 300px;">
+        </td>
+    </tr>
+ 
+</table>
